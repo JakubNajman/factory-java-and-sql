@@ -1,6 +1,6 @@
 package ObjectFactory;
 
-public class FactoryPattern {
+public class Factory {
     
     public static void main(String[] args) {
         ObjectFactory objectFactory = new ObjectFactory();

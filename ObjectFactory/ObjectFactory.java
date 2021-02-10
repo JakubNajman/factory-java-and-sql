@@ -13,7 +13,8 @@ public class ObjectFactory {
                 return new Object2();
             case 3: 
                 return new Object3();
+            default:
+                return null;
         }
-        return null;
     }
 }
